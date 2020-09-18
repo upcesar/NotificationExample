@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Notification.WorkerService.Models
+﻿namespace Notification.WorkerService.Options
 {
     public class EmailSettings
     {

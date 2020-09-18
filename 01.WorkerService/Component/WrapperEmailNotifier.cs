@@ -1,5 +1,5 @@
 ﻿using Microsoft.Extensions.Options;
-using Notification.WorkerService.Models;
+using Notification.WorkerService.Options;
 using System;
 using System.Threading.Tasks;
 
